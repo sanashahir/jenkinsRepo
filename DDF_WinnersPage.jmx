@@ -16512,7 +16512,7 @@
               </elementProp>
               <elementProp name="influxdbToken" elementType="Argument">
                 <stringProp name="Argument.name">influxdbToken</stringProp>
-                <stringProp name="Argument.value">QiCsPmw7EF8N-I_uQW9FpBga2hoOaRpADQne5W1AkWhGcZ8W1K448Ruz5z1gdhs9BzyXCjCbAKc_yllv6PqDzA==</stringProp>
+                <stringProp name="Argument.value">Nuj_W5MpAfXx9gcH4Wf6e06Zu8x1MP_tAzv66Y7euamXWRu8mqYteoeR_R2brCizt4qkI8ftlWLvo0xOR1_saw==</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
               <elementProp name="influxdbMetricsSender.metrics.avg" elementType="Argument">
